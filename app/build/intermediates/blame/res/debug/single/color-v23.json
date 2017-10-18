@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/spouliot/AndroidStudioProjects/AFaire étudiant 2017/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/spouliot/.android/build-cache/a43a280e4561a50d3d13db35405697fa00b8532e/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/spouliot/AndroidStudioProjects/AFaire étudiant 2017/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/spouliot/.android/build-cache/a43a280e4561a50d3d13db35405697fa00b8532e/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/spouliot/AndroidStudioProjects/AFaire étudiant 2017/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/spouliot/.android/build-cache/a43a280e4561a50d3d13db35405697fa00b8532e/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/spouliot/AndroidStudioProjects/AFaire étudiant 2017/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/spouliot/.android/build-cache/a43a280e4561a50d3d13db35405697fa00b8532e/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/spouliot/AndroidStudioProjects/AFaire étudiant 2017/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/spouliot/.android/build-cache/a43a280e4561a50d3d13db35405697fa00b8532e/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/spouliot/AndroidStudioProjects/AFaire étudiant 2017/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/spouliot/.android/build-cache/a43a280e4561a50d3d13db35405697fa00b8532e/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/spouliot/AndroidStudioProjects/AFaire étudiant 2017/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/spouliot/.android/build-cache/a43a280e4561a50d3d13db35405697fa00b8532e/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/spouliot/AndroidStudioProjects/AFaire étudiant 2017/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/spouliot/.android/build-cache/a43a280e4561a50d3d13db35405697fa00b8532e/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/spouliot/AndroidStudioProjects/AFaire étudiant 2017/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/spouliot/.android/build-cache/a43a280e4561a50d3d13db35405697fa00b8532e/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/spouliot/AndroidStudioProjects/AFaire étudiant 2017/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/spouliot/.android/build-cache/9fb20eeb1c7f662af89d415038e429d3ee9d1926/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/spouliot/AndroidStudioProjects/AFaire étudiant 2017/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/spouliot/.android/build-cache/a43a280e4561a50d3d13db35405697fa00b8532e/output/res/color-v23/abc_tint_switch_thumb.xml"
+    }
+]
